@@ -45,22 +45,22 @@ export const statistics = [
 export const products = [
 	{
 		imgURL: shoe4,
-		name: 'Nike Air Jordan-01',
+		name: 'Spectra Air-01',
 		price: '$200.20',
 	},
 	{
 		imgURL: shoe5,
-		name: 'Nike Air Jordan-10',
+		name: 'Spectra Air-10',
 		price: '$210.20',
 	},
 	{
 		imgURL: shoe6,
-		name: 'Nike Air Jordan-100',
+		name: 'Spectra Air-100',
 		price: '$220.20',
 	},
 	{
 		imgURL: shoe7,
-		name: 'Nike Air Jordan-001',
+		name: 'Spectra Air-001',
 		price: '$230.20',
 	},
 ];
@@ -95,7 +95,8 @@ export const reviews = [
 		imgURL: customer2,
 		customerName: 'Lota Mongeskar',
 		rating: 4.5,
-		feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!",
+		feedback:
+			"The product not only met but exceeded my expectations. I'll definitely be a returning customer!",
 	},
 ];
 
@@ -103,12 +104,12 @@ export const footerLinks = [
 	{
 		title: 'Products',
 		links: [
-			{ name: 'Air Force 1', link: '/' },
-			{ name: 'Air Max 1', link: '/' },
-			{ name: 'Air Jordan 1', link: '/' },
-			{ name: 'Air Force 2', link: '/' },
-			{ name: 'Nike Waffle Racer', link: '/' },
-			{ name: 'Nike Cortez', link: '/' },
+			{ name: 'Spectra Force 1', link: '/' },
+			{ name: 'Spectra Max 1', link: '/' },
+			{ name: 'Spectra Jordan 1', link: '/' },
+			{ name: 'Spectra Force 2', link: '/' },
+			{ name: 'Spectrum Waffle Racer', link: '/' },
+			{ name: 'Spectrum Cortez', link: '/' },
 		],
 	},
 	{
@@ -124,7 +125,7 @@ export const footerLinks = [
 	{
 		title: 'Get in touch',
 		links: [
-			{ name: 'customer@nike.com', link: 'mailto:customer@nike.com' },
+			{ name: 'customer@sneakspec.com', link: 'mailto:customer@sneakspec.com' },
 			{ name: '+92554862354', link: 'tel:+92554862354' },
 		],
 	},
